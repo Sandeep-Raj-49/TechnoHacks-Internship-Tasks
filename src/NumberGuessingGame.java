@@ -35,8 +35,5 @@ public class NumberGuessingGame {
                 }
             }
         }
-
-        // Close the scanner
-        scanner.close();
     }
 }
